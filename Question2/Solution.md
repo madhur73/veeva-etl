@@ -12,7 +12,7 @@ Following Assumptions are made about the script and data
 
 
    
-###Logic:
+### Logic:
 ___
 
 1. Download the transaction file from s3 bucket when credentials are provided. 
